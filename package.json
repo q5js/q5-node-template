@@ -13,6 +13,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"jsdom": "^25.0.1",
-		"skia-canvas": "^1.0.2"
+		"skia-canvas": "^1.0.2",
+		"q5": "^2.11.2"
 	}
 }
